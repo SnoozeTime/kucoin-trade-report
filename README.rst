@@ -1,4 +1,3 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 .. image:: https://img.shields.io/badge/license-WTFPL-green.svg
    :target: https://github.com/SnoozeTime/kucoin-trade-report/blob/master/LICENSE.txt
 
@@ -38,6 +37,7 @@ Donation
 If the tool was useful to you, please consider donating ;)
 
 ETH at: 0xE58f3b911b04e997d9d21F39DFAB82c63275415D
+
 BTC at: 1ByrzH4zJ9ArfqfN8NJGioyuweN7yamGtV
 
 .. _post on steemit about API keys: https://steemit.com/cryptocurrency/@jeremypeng/tutorial-about-how-to-auto-manage-your-kucoin-portfolio-using-api-key
