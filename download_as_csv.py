@@ -1,12 +1,9 @@
 from kucoin.client import Client as Kucoin
 from kucoin.exceptions import KucoinAPIException
-import os
+from config import KEY, SECRET
 import time
 from tqdm import tqdm
 import csv
-
-KEY = os.getenv("KUCOIN_API", "")
-SECRET = os.getenv("KUCOIN_SECRET", "")
 
 
 def get_total_trades(kucoin):
