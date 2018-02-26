@@ -1,0 +1,13 @@
+certifi==2018.1.18
+chardet==3.0.4
+dateparser==0.7.0
+idna==2.6
+python-dateutil==2.6.1
+python-kucoin==0.1.10
+pytz==2018.3
+regex==2018.2.21
+requests==2.18.4
+six==1.11.0
+tqdm==4.19.5
+tzlocal==1.5.1
+urllib3==1.22
