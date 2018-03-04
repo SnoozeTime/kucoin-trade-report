@@ -54,7 +54,7 @@ def main():
     kucoin = Kucoin(KEY, SECRET)
     total_orders = get_total_trades(kucoin)
 
-    headers = ["createdAt", "coinType", "coinTypePair", "dealDirection",
+    headers = ["createdAt", "coinType", "coinTypePair", "direction",
                "dealPrice", "amount", "dealValue", "fee", "feeRate", "orderOid"]
     with open('trade_history.csv', 'w') as csv_file:
         order_writer = csv.writer(csv_file)
